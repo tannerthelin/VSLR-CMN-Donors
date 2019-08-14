@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "Int Circular Pro";
+	src: url('fonts/IntCircularPro-Light_3.ttf') format('ttf');
+}
+
+body {
+	font-family: "Int Circular Pro";
+	text-align: center;
+	font-weight: 200;
+	font-size: 30px;
+	color: #79848E;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #DA0F45;
+	margin: 100px 0 30px 0;
+}
+
+.content-container {
+	max-width: 600px;
+	margin: auto;
+}
+
+hr {
+	opacity: .5;
+	margin-bottom: 30px;
+}
+
+a {
+	display: block;
+	color: #79848E;
+	margin-bottom: 25px;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+#table-content {
+	max-width: 600px;
+	margin: auto;
+}
+
+td {
+	padding: 8px 0;
+}
